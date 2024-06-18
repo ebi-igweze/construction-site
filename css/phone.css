@@ -1,0 +1,68 @@
+
+/* phone screen styles */
+nav li a {
+    display: inline-block;
+    padding: 20px 8px;
+    color: black;
+}
+
+.hero {
+    height: 45vh;
+}
+
+.hero .title {
+    font-size: 30px;
+    line-height: 1.4;
+}
+
+.accolades .title {
+    font-size: 35px;
+    line-height: 1.2;
+}
+
+.accolades .column {
+    float: left;
+    width: 100%;
+    padding: 0px;
+}
+
+.cover-image {
+    height: 150px;
+}
+
+.cover-image .caption {
+    left: 30px;
+}
+
+.cover-image .caption .title {
+    font-size: 40px;
+}
+
+.cover-image .caption .sub-title {
+    font-size: 12px;
+    margin-left: 3px;
+}
+
+.main-content {
+    padding: 0px 15px;
+}
+
+.main-content .article {
+    margin: 25px;
+}
+
+.main-content form {
+    padding: 20px;
+}
+
+
+.main-content .article .column {
+    display: block;
+    float: none;
+    width: 100%;
+}
+
+.main-content .article .service-caption {
+    padding: 0px;
+    width: 100%;
+}

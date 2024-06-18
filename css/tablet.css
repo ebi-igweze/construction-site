@@ -1,0 +1,12 @@
+/* styles for tablet devices */
+
+nav li a {
+    display: inline-block;
+    padding: 20px 15px;
+    color: black;
+}
+
+
+.accolades .column {
+    width: 50%;
+}
